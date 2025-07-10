@@ -125,7 +125,7 @@ const setFirmwareFile = (event: any) => {
 }
 
 const setSelectedFirmware = (release: FirmwareResource) => {
-    doAnimation();
+    //doAnimation();
     store.setSelectedFirmware(release);
     document.getElementById('dropdownFirmware')?.classList.toggle('hidden'); // Flowbite bug
 }
