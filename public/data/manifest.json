@@ -1,5 +1,5 @@
 {
-  "title": "DEFCON 33 Meshtastic Flasher",
+  "title": "OpenSauce 2025 Meshtastic Flasher",
   "image": "meshtastic_ham.png",
   "vendorCobrandingTag": "",
   "backGroundColor": "#000000",
@@ -8,9 +8,9 @@
   "secondaryColor": "#228833",
   "release": {
     "isPrerelease": false,
-    "title": "DEFCON 33 Firmware",
-    "version": "2.7.2.db79b02",
-    "githubioPrefix": "event/defcon33",
-    "release_notes": "### Experimental firmware for DEFCON 33\n\n⚠️ Flash and factory reset to use the latest experimental firmware for DEFCON 33.\n\n### Important Notes\n\n - This firmware is experimental and may not be stable.\n - Use at your own risk.\n - Ensure you have a backup of your current configuration before flashing.\n\n\n\n"
+    "title": "OpenSauce Firmware",
+    "version": "2.7.2.1324faa",
+    "githubioPrefix": "event/opensauce2025",
+    "release_notes": "### Experimental firmware for OpenSauce\n\n⚠️ Flash and factory reset to use the latest experimental firmware for DEFCON 33.\n\n### Important Notes\n\n - This firmware is experimental and may not be stable.\n - Use at your own risk.\n - Ensure you have a backup of your current configuration before flashing.\n\n\n\n"
   }
 }
