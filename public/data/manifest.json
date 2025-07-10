@@ -11,6 +11,6 @@
     "title": "OpenSauce Firmware",
     "version": "2.7.2.1324faa",
     "githubioPrefix": "event/opensauce2025",
-    "release_notes": "### Experimental firmware for OpenSauce\n\n⚠️ Flash and factory reset to use the latest experimental firmware for DEFCON 33.\n\n### Important Notes\n\n - This firmware is experimental and may not be stable.\n - Use at your own risk.\n - Ensure you have a backup of your current configuration before flashing.\n\n\n\n"
+    "release_notes": "### Experimental firmware for OpenSauce 2025\n\n⚠️ Flash and factory reset to use the latest experimental firmware for OpenSauce 2025.\n\n### Important Notes\n\n - This firmware is experimental and may not be stable.\n - Use at your own risk.\n - Ensure you have a backup of your current configuration before flashing.\n\n\n\n"
   }
 }
