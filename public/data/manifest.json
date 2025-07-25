@@ -8,9 +8,9 @@
   "secondaryColor": "#228833",
   "release": {
     "isPrerelease": false,
-    "title": "OpenSauce Firmware",
-    "version": "2.7.2.1324faa",
-    "githubioPrefix": "event/opensauce2025",
-    "release_notes": "### Experimental firmware for OpenSauce 2025\n\n⚠️ Flash and factory reset to use the latest experimental firmware for OpenSauce 2025.\n\n### Important Notes\n\n - This firmware is experimental and may not be stable.\n - Use at your own risk.\n - Ensure you have a backup of your current configuration before flashing.\n\n\n\n"
+    "title": "Burning Man Firmware",
+    "version": "2.7.3.81f466c",
+    "githubioPrefix": "event/burningmesh2025",
+    "release_notes": "### Experimental firmware for Burning Man 2025\n\n⚠️ Flash and factory reset to use the latest experimental firmware for Burning Man 2025.\n\n### Important Notes\n\n - This firmware is experimental and may not be stable.\n - Use at your own risk.\n - Ensure you have a backup of your current configuration before flashing.\n\n\n\n"
   }
 }
