@@ -9,7 +9,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@nuxt/devtools": "^2.3.0",
+    "@nuxt/devtools": "^2.6.4",
     "@types/file-saver": "^2.0.7",
     "@vite-pwa/nuxt": "^0.10.6",
     "autoprefixer": "^10.4.21",
